@@ -1,5 +1,7 @@
 # NextJS Portfolio with Modern UI
 
+![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+
 This is a portfolio website built with Next.js, React, and Styled Components. It is designed to showcase your projects and skills in a modern and visually appealing way.
 
 ## Getting Started
